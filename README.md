@@ -19,9 +19,16 @@ Documentation of the tools installed and steps completed for the 100Hires portfo
 
 - [x] Downloaded and installed Cursor IDE from cursor.com
 - [x] Opened Extensions panel → searched "Claude Code" → installed and logged in
-- [x] Opened Extensions panel → searched "Codex" → installed OpenAI's Codex coding agent
+- [x] Opened Extensions panel → searched "Codex" → installed and logged in
 - [x] Created public GitHub repository
-- [x] Committed and pushed README.md
+- [x] Opened the repository in Cursor
+- [x] Created and pushed README.md
+
+---
+
+## Issues
+
+No issues encountered during setup.
 
 ---
 
