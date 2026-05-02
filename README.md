@@ -28,16 +28,16 @@ Documentation of the tools installed and steps completed for the 100Hires portfo
 ## Screenshots
 
 **Searching "Claude" in Cursor Extensions**
-![Claude search](https://raw.githubusercontent.com/Nivlac8/100hires-portfolio-project/main/Screenshot_2026-05-02_063556.png)
+![Claude search](https://raw.githubusercontent.com/Nivlac8/100hires-portfolio-project/main/Screenshot%202026-05-02%20063556.png)
 
 **Claude Code extension — installed**
-![Claude Code installed](https://raw.githubusercontent.com/Nivlac8/100hires-portfolio-project/main/Screenshot_2026-05-02_063703.png)
+![Claude Code installed](https://raw.githubusercontent.com/Nivlac8/100hires-portfolio-project/main/Screenshot%202026-05-02%20063703.png)
 
 **Searching "Codex" in Cursor Extensions**
-![Codex search](https://raw.githubusercontent.com/Nivlac8/100hires-portfolio-project/main/Screenshot_2026-05-02_063922.png)
+![Codex search](https://raw.githubusercontent.com/Nivlac8/100hires-portfolio-project/main/Screenshot%202026-05-02%20063922.png)
 
 **Codex extension — installed**
-![Codex installed](https://raw.githubusercontent.com/Nivlac8/100hires-portfolio-project/main/Screenshot_2026-05-02_063501.png)
+![Codex installed](https://raw.githubusercontent.com/Nivlac8/100hires-portfolio-project/main/Screenshot%202026-05-02%20063501.png)
 
 ---
 
